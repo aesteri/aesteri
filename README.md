@@ -1,7 +1,7 @@
 ### Hi, I'm Christine!
 -----
 # :ferris_wheel: About Me
-My name is Christine and I am a CS major at the Georgia Institute of Technology!
+My name is Christine and I am a second year CS major at the Georgia Institute of Technology!
 
 ```java
 public class Christine
