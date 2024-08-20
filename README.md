@@ -26,7 +26,7 @@ public class Christine
 # Tech Stack
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,react,nodejs,&theme=dark)](https://skillicons.dev)
 
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp&theme=dark)](https://skillicons.dev)
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,nix&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,github&theme=dark)](https://skillicons.dev)
 
