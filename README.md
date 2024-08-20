@@ -13,8 +13,7 @@ public class Christine
 ```
 ### :rocket: Credentials
 - Experience:
-  - Mentored for 3 months by [Mukund Iyengar](https://faculty.stevens.edu/miyengar) Director of Launchpad
-  - Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
+  - Data Operations Lead @ HyTech Racing (Fastest team in North America)
   - You can view a few of my projects here on my GitHub page!
 -----
 
