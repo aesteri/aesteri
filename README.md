@@ -17,7 +17,7 @@ public class Christine
   - You can view a few of my projects here on my GitHub page!
 -----
 
-# 🤔  What Am I Doing?
+# 🍰  What Am I Doing?
 - :clipboard: Currently I am:
   - Preparing for FSAE electric 2025
   - Exploring International Technology at Korea's #1 university
@@ -30,5 +30,5 @@ public class Christine
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,github&theme=dark)](https://skillicons.dev)
 
-# 🌱 Stats
+# 🍓 Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aesteri)](https://github.com/anuraghazra/github-readme-stats)
