@@ -7,6 +7,7 @@ My name is Christine and I am a second year CS major at the Georgia Institute of
 public class Christine
 {
   private int age = 19;
+  public String[] technologies = new String[] { "C++", "Python", "Java", "JS/HTML/CSS", "Nix" };
   public String[] passion = new String[] { "F1", "Data", "Software" };
   public String[] hobbies = new String[] { "Coding!", "Rock Climbing", "Baking" };
 }
