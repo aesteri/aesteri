@@ -7,21 +7,20 @@ My name is Christine and I am a second year CS major at the Georgia Institute of
 public class Christine
 {
   private int age = 19;
-  public String[] technologies = new String[] { "C++", "Python", "Java", "JS/HTML/CSS", "Nix" };
+  public String[] technologies = new String[] { "Typescript", "Python", "Java", "JS/HTML/CSS", "C++" };
   public String[] passion = new String[] { "F1", "Data", "Software" };
   public String[] hobbies = new String[] { "Coding!", "Rock Climbing", "Baking" };
 }
 ```
 ### :rocket: Credentials
 - Experience:
-  - Data Operations Lead @ HyTech Racing (Fastest team in North America)
+  - Lead Software Engineer @ HyTech Racing (Fastest team in North America)
   - You can view a few of my projects here on my GitHub page!
 -----
 
 # 🍰  What Am I Doing?
 - :clipboard: Currently I am:
   - Preparing for FSAE electric 2025
-  - Exploring International Technology at Korea's #1 university
 -----
 
 # Tech Stack
