@@ -25,11 +25,11 @@ public class Christine
 -----
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=go,html,css,js,ts,mongodb,react,nodejs,cmake,&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=go,html,css,js,ts,mongodb,react,&theme=dark)](https://skillicons.dev)
 
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,nix&theme=dark)](https://skillicons.dev)
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,nix,nodejs&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,github,mysql&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,github,mysql,cmake,&theme=dark)](https://skillicons.dev)
 
 # 🍓 Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aesteri)](https://github.com/anuraghazra/github-readme-stats)
