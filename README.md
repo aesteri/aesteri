@@ -6,25 +6,26 @@ My name is Christine and I am a second year CS major at the Georgia Institute of
 ```java
 public class Christine
 {
-  private int age = 19;
-  public String[] technologies = new String[] { "Typescript", "Python", "Java", "JS/HTML/CSS", "C++" };
+  private int age = 20;
+  public String[] technologies = new String[] { "Go", "Typescript", "Python", "Java", "JS/HTML/CSS", "C++" };
   public String[] passion = new String[] { "F1", "Data", "Software", "Full Stack Development" };
   public String[] hobbies = new String[] { "Coding!", "Rock Climbing", "Baking" };
 }
 ```
 ### :rocket: Credentials
 - Experience:
-  - Lead Software Engineer @ HyTech Racing (Fastest team in North America)
+  - Lead Software Engineer @ HyTech Racing (Fastest FSAE EV team in North America!)
+  - Software Engineer @ HyTech Racing 
   - You can view a few of my projects here on my GitHub page!
 -----
 
 # 🍰  What Am I Doing?
 - :clipboard: Currently I am:
-  - Preparing for FSAE electric 2025
+  - Preparing for FSAE EV 2025
 -----
 
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,react,nodejs,cmake,&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=go,sql,html,css,js,ts,mongodb,react,nodejs,cmake,&theme=dark)](https://skillicons.dev)
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,nix&theme=dark)](https://skillicons.dev)
 
