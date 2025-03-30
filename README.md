@@ -22,6 +22,7 @@ public class Christine
 # 🍰  What Am I Doing?
 - :clipboard: Currently I am:
   - Preparing for FSAE EV 2025
+  - Incoming @ SpaceX (Summer 2025)
 -----
 
 # Tech Stack
