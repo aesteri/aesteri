@@ -1,14 +1,14 @@
 ### Hi, I'm Christine!
 -----
 # :ferris_wheel: About Me
-My name is Christine and I am a second year CS major at the Georgia Institute of Technology! 
+My name is Christine and I am a third year CS major at the Georgia Institute of Technology! 
 
 ```java
 public class Christine
 {
   private int age = 20;
-  public String[] technologies = new String[] { "Go", "Typescript", "Python", "Java", "JS/HTML/CSS", "C++" };
-  public String[] passion = new String[] { "F1", "Data", "Software", "Full Stack Development" };
+  public String[] technologies = new String[] { "Go", "Python", "Typescript", "Java", "JS/HTML/CSS", "C++", "C" };
+  public String[] passion = new String[] { "F1", "Data", "Software", "Full Stack Development", "AI/ML" };
   public String[] hobbies = new String[] { "Coding!", "Rock Climbing", "Baking" };
 }
 ```
