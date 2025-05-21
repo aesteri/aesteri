@@ -15,7 +15,6 @@ public class Christine
 ### :rocket: Credentials
 - Experience:
   - Lead Software Engineer @ HyTech Racing (Fastest FSAE EV team in North America!)
-  - Software Engineer @ HyTech Racing 
   - You can view a few of my projects here on my GitHub page!
 -----
 
