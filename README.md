@@ -14,6 +14,7 @@ public class Christine
 ```
 ### :rocket: Credentials
 - Experience:
+  - Software and Data Engineer  @ SpaceX (Summer 2025)
   - Lead Software Engineer @ HyTech Racing (Fastest FSAE EV team in North America!)
   - You can view a few of my projects here on my GitHub page!
 -----
@@ -21,7 +22,6 @@ public class Christine
 # 🍰  What Am I Doing?
 - :clipboard: Currently I am:
   - Preparing for FSAE EV 2025
-  - Incoming @ SpaceX (Summer 2025)
 -----
 
 # Tech Stack
