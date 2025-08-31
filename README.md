@@ -21,7 +21,9 @@ public class Christine
 
 # 🍰  What Am I Doing?
 - :clipboard: Currently I am:
-  - Preparing for FSAE EV 2025
+  - Researching
+    - Autonomous LiDAR under Professor Kevin Abraham
+    - ViTAL Lab under Professor Hyeok Kwon
 -----
 
 # Tech Stack
