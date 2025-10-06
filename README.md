@@ -15,7 +15,7 @@ public class Christine
 ### :rocket: Credentials
 - Experience:
   - AI/ML Research @ Emory & GT (Present)
-  - Software and Data Engineer  @ SpaceX (Summer 2025)
+  - Software Engineer Intern @ SpaceX (Summer 2025)
   - Lead Software Engineer @ HyTech Racing (Fastest FSAE EV team in North America!)
   - You can view a few of my projects here on my GitHub page!
 -----
