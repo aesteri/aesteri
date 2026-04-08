@@ -1,4 +1,4 @@
-### Hi, I'm Christine
+### Hi, I'm C
 -----
 # :ferris_wheel: About Me
 My name is Christine and I am a third year CS major at the Georgia Institute of Technology
