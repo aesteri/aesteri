@@ -14,6 +14,7 @@ public class Christine
 ```
 ### :rocket: Credentials
 - Experience:
+  - Incoming Deep Learning Server Software Intern @ NVIDIA (Summer 2026)    
   - AI/ML Research @ Emory & GT (Present)
   - Software Engineer Intern @ SpaceX (Summer 2025)
   - Lead Software Engineer @ HyTech Racing (Fastest FSAE EV team in North America!)
