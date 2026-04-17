@@ -1,39 +1,8 @@
-### Hi, I'm C
------
-# :ferris_wheel: About Me
-My name is Christine and I am a third year CS major at the Georgia Institute of Technology
+I'm passionate about physical AI and ML infra. 
 
-```java
-public class Christine
-{
-  private int age = 21;
-  public String[] technologies = new String[] { "Go", "Python", "Typescript", "Java", "JS/HTML/CSS", "C++", "C" };
-  public String[] passion = new String[] { "F1", "Data", "Software", "Full Stack Development", "AI/ML" };
-  public String[] hobbies = new String[] { "Coding!", "Rock Climbing", "Baking" };
-}
-```
-### :rocket: Credentials
-- Experience:
-  - Incoming Deep Learning Server Software Intern @ NVIDIA (Summer 2026)    
-  - AI/ML Research @ Emory & GT (Present)
-  - Software Engineer Intern @ SpaceX (Summer 2025)
-  - Lead Software Engineer @ HyTech Racing (FSAE EV - accel record in 24)
-  - You can view a few of my projects here on my GitHub page!
------
+Latest Blog Posts:
+- **[My Experience in Formula Student Electric](https://www.christineyewonkim.com/posts/post-3/)**: Detailing my perspect on Formula Student Electric
+- **[goofy post about finding housing](https://www.christineyewonkim.com/posts/post-2/)**: Short fun read
+- **[Studying Abroad in Korea](https://www.christineyewonkim.com/posts/post-1/)**: My experience studying AI/ML in Korea's #1 Uni
 
-# 🍰  What Am I Doing?
-- :clipboard: Currently I am:
-  - Researching
-    - Autonomous LiDAR under Professor Kevin Abraham
-    - ViTAL Lab under Professor Hyeok Kwon
------
 
-# Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=go,html,css,js,ts,mongodb,&theme=dark)](https://skillicons.dev)
-
-[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,nix,nodejs,react&theme=dark)](https://skillicons.dev)
-
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,github,mysql,cmake,&theme=dark)](https://skillicons.dev)
-
-# 🍓 Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aesteri)](https://github.com/anuraghazra/github-readme-stats)
